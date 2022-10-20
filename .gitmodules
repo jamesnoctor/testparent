@@ -1,0 +1,3 @@
+[submodule "testchild"]
+	path = testchild
+	url = git@github.com:jamesnoctor/testchild.git
